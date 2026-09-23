@@ -27,4 +27,4 @@ C# / ASP.NET Core · Flutter · React / TypeScript · Go · PostgreSQL · Docker
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/REPLACE_ME) · [marifoglu.trade](https://marifoglu.trade)
+[LinkedIn](https://www.linkedin.com/in/furkan-marifoglu/) · [marifoglu.trade](https://marifoglu.trade)
