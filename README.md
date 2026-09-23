@@ -17,6 +17,7 @@ These were built for and used in our own family business. I host them myself on 
 
 ### Other work
 
+- [ShielDir](https://github.com/furkanmar/ShielDir) — event-driven AI threat detection for surveillance video: Kafka, Redis, YOLO on TensorRT, VideoMAE (capstone, 2025)
 - [wholesale-saas](https://github.com/furkanmar/wholesale-saas) — Clean Architecture / CQRS take on the wholesale domain
 - [HomeBudget](https://github.com/furkanmar/HomeBudget) - layered personal-finance system (team project, with unit & integration tests)
 - University & ML projects: [CE477-Project](https://github.com/furkanmar/CE477-Project), [Data_Prediction_Project](https://github.com/furkanmar/Data_Prediction_Project), [SE302 Syllabus](https://github.com/furkanmar/SE302_Sec2_Team6_SyllabusProject)
