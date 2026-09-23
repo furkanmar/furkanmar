@@ -1,6 +1,6 @@
 # Hi, I'm Furkan
 
-Computer engineer (İzmir University of Economics, 2025) who builds software for real problems — most of what's here started as a tool our own family business needed, and ended up running in production.
+Computer engineer (İzmir University of Economics, 2025) who builds software for real problems, most of what's here started as a tool our own family business needed, and ended up running in production.
 
 I care about **shipping things people actually use**, **understanding the problem before the code**, and **owning a system end to end**: from the requirement, through the architecture, to the server it runs on.
 
